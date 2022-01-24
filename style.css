@@ -1,0 +1,13 @@
+.btn-button{
+    
+    background-image: linear-gradient(to bottom, #f8d2ea 100%, #f8abca 0%);
+    
+}
+
+footer{
+    text-align: center;
+}
+.color-footer{
+    background-color: black;
+    color: white;
+}
